@@ -1,0 +1,29 @@
+== Introduction
+
+Esentially this is Facebox ( http://famspam.com/facebox ) for prototype.
+
+It is designed to hook up to your a[rel=popupbox] tags and display whatever
+it is in their href in a fancy popup div.
+
+== Usage
+
+Add in the <head> section of your page:
+
+popupbox.preload();
+
+Now this will happen:
+
+<a href="#terms" rel="facebox">Terms</a>
+  Loads the #terms div in the box
+
+<a href="terms.html" rel="facebox">Terms</a>
+  Loads the terms.html page in the box
+
+<a href="terms.png" rel="facebox">Terms</a>
+  Loads the terms.png image in the box
+
+== License
+
+In short - do whatever you want to and be happy.
+I hate legal stuff but if you are into it - it is GPL.
+For more information goto http://www.gnu.org/licenses/gpl.html
