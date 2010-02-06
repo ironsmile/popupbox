@@ -8,9 +8,11 @@ it is in their href in a fancy popup div.
 == Usage
 
 Add in the <head> section of your page:
-
-popupbox.preload();
-
+  
+  <script type="text/javascript">
+    popupbox.preload();
+  </script>
+  
 Now this will happen:
 
   <a href="#terms" rel="facebox">Terms</a>
