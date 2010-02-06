@@ -13,14 +13,14 @@ popupbox.preload();
 
 Now this will happen:
 
-<a href="#terms" rel="facebox">Terms</a>
-  Loads the #terms div in the box
+  <a href="#terms" rel="facebox">Terms</a>
+Loads the #terms div in the box
 
-<a href="terms.html" rel="facebox">Terms</a>
-  Loads the terms.html page in the box
+  <a href="terms.html" rel="facebox">Terms</a>
+Loads the terms.html page in the box
 
-<a href="terms.png" rel="facebox">Terms</a>
-  Loads the terms.png image in the box
+  <a href="terms.png" rel="facebox">Terms</a>
+Loads the terms.png image in the box
 
 == License
 
